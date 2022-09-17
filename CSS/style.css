@@ -390,13 +390,11 @@ footer {
 
 /* モバイル版
 -------------*/
-@media (max-width: 800px) {
+@media (max-width: 767px) {
  .logo h1 {
      margin-left: 20px;
  }
- .nav-sp {
-     margin-left: 150px;
- }
+ 
  .flower img {
      margin-left: -170px;
      height: 120%;
